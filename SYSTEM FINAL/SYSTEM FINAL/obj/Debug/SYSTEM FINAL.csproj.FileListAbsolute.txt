@@ -1,0 +1,33 @@
+C:\Users\Start\source\repos\SYSTEM FINAL\SYSTEM FINAL\bin\Debug\SYSTEM FINAL.exe.config
+C:\Users\Start\source\repos\SYSTEM FINAL\SYSTEM FINAL\bin\Debug\SYSTEM FINAL.exe
+C:\Users\Start\source\repos\SYSTEM FINAL\SYSTEM FINAL\bin\Debug\SYSTEM FINAL.pdb
+C:\Users\Start\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM FINAL.csprojAssemblyReference.cache
+C:\Users\Start\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM_FINAL.ADMIN.resources
+C:\Users\Start\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM_FINAL.Form1.resources
+C:\Users\Start\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM_FINAL.Login.resources
+C:\Users\Start\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM_FINAL.Lost_Items.resources
+C:\Users\Start\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM_FINAL.Properties.Resources.resources
+C:\Users\Start\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM_FINAL.Registration.resources
+C:\Users\Start\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM FINAL.csproj.GenerateResource.cache
+C:\Users\Start\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM FINAL.exe
+C:\Users\Start\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM FINAL.pdb
+C:\Users\Start\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM_FINAL.another_cs.resources
+C:\Users\Start\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM_FINAL.DATA.resources
+C:\Users\Start\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM_FINAL.Form2.resources
+C:\Users\sarah\source\repos\SYSTEM FINAL\SYSTEM FINAL\bin\Debug\SYSTEM FINAL.exe.config
+C:\Users\sarah\source\repos\SYSTEM FINAL\SYSTEM FINAL\bin\Debug\SYSTEM FINAL.exe
+C:\Users\sarah\source\repos\SYSTEM FINAL\SYSTEM FINAL\bin\Debug\SYSTEM FINAL.pdb
+C:\Users\sarah\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM FINAL.csprojAssemblyReference.cache
+C:\Users\sarah\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM_FINAL.ADMIN.resources
+C:\Users\sarah\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM_FINAL.another_cs.resources
+C:\Users\sarah\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM_FINAL.DATA.resources
+C:\Users\sarah\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM_FINAL.Form1.resources
+C:\Users\sarah\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM_FINAL.Form2.resources
+C:\Users\sarah\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM_FINAL.Login.resources
+C:\Users\sarah\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM_FINAL.Lost_Items.resources
+C:\Users\sarah\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM_FINAL.Properties.Resources.resources
+C:\Users\sarah\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM_FINAL.Registration.resources
+C:\Users\sarah\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM FINAL.csproj.GenerateResource.cache
+C:\Users\sarah\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM FINAL.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM FINAL.exe
+C:\Users\sarah\source\repos\SYSTEM FINAL\SYSTEM FINAL\obj\Debug\SYSTEM FINAL.pdb
